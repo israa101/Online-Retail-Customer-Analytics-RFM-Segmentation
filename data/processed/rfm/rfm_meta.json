@@ -1,0 +1,19 @@
+{
+  "snapshot": "2011-12-10",
+  "monetary_basis": "net",
+  "transforms": {
+    "Recency": "log1p",
+    "Frequency": "log1p",
+    "Monetary": "log1p"
+  },
+  "cap_applied": true,
+  "scaler": "StandardScaler",
+  "n_components": 2,
+  "pca_evr": [
+    0.7537705139051539,
+    0.1862627769315665
+  ],
+  "pca_for_clustering": true,
+  "n_customers": 4322,
+  "random_state": 42
+}

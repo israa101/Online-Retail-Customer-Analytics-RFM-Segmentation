@@ -1,0 +1,5 @@
+SegmentName,n_customers,pct_customers,pct_revenue,Recency_median,Frequency_median,Monetary_median,Strategy
+Champions,728,16.844053678852383,65.0835456469571,9.0,10.0,3480.795,"REWARD - loyalty perks, early access to new lines and a referral programme; avoid blanket discounting."
+Developing (R:Mid F:High M:High),1182,27.348449791763073,23.5594434750858,53.0,4.0,1303.975,Moderately recent: a timely reminder campaign; frequent buyers: reward the habit; high spend: prioritise.
+New Inflow,882,20.40721888014808,4.989698992023027,20.0,2.0,399.14,ONBOARD - welcome sequence with an incentive for the second purchase; track first-to-second-order conversion.
+Hibernating / Lost,1530,35.400277649236465,6.367311885934074,187.0,1.0,291.025,"LOW-COST REACTIVATION - one inexpensive email, otherwise suppress from paid campaigns."
